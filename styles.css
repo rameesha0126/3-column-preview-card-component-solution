@@ -119,7 +119,7 @@ html {
     }
 
     .sedans, .suvs, .luxury {
-        max-width: 375px;
+        max-width: 275px;
         padding: 3rem;
     }
 
